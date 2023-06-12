@@ -1,0 +1,10 @@
+* hh-aws
+
+Common Lisp library for accessing Amazon Web Services APIs
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hargettp/hh-aws.git   |
+| commit  | 650d08b  |
+| systems | hh-aws |
+|---------+-------------------------------------------|
+
